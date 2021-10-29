@@ -40,14 +40,9 @@
 
 
 ## Installing - 安裝流程
-1. 將此專案 Clone 至本機電腦
+1. 將此專案 Clone 至本機電腦 git clone https://github.com/ginn723/restaurant_list.git
 
-git clone https://github.com/ginn723/restaurant_list.git
-
-2. 開啓 Terminal，切換進入此專案的資料夾
-
-$ cd restaurant_list
-
+2. 開啓 Terminal，切換進入此專案的資料夾 $ cd restaurant_list
 
 3. 在 Terminal 安裝 npm (Node Package Manager) 套件
 $ npm install
